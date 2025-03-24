@@ -6,7 +6,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=hellomyzn&show_icons=true&theme=cobalt" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellomyzn&theme=cobalt&hide=jupyter%20notebook,roff&langs_count=9" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellomyzn&theme=tokyonight&hide=jupyter%20notebook,roff&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5" />
 </a>
 
 
