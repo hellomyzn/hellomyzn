@@ -1,5 +1,5 @@
 ### Hi there 👋
-<br>
+
 <img src="https://komarev.com/ghpvc/?username=hellomyzn&color=blue">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -11,7 +11,6 @@
 <br>
 
 ### Skills
-
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
@@ -59,7 +58,7 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
   </a> 
 </p>
-
+<br>
 <!--
 **hellomyzn/hellomyzn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
