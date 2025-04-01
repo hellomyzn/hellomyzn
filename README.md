@@ -2,13 +2,16 @@
 
 <img src="https://komarev.com/ghpvc/?username=hellomyzn&color=blue">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hellomyzn&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellomyzn&theme=tokyonight&hide=jupyter%20notebook,roff&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5" />
-</a>
-<br>
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=hellomyzn&show_icons=true&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellomyzn&theme=tokyonight&hide=jupyter%20notebook,roff&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5" />
+    </td>
+  </tr>
+</table>
 
 ### Skills
 <p align="left">
