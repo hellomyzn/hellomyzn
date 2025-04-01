@@ -8,6 +8,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellomyzn&theme=tokyonight&hide=jupyter%20notebook,roff&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5" />
 </a>
+<br>
 
 ### Skills
 
@@ -40,7 +41,7 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
   </a>
 </p>
-
+<br>
 
 ### Socials
 
