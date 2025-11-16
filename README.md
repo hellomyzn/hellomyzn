@@ -25,7 +25,7 @@
 ### 👋 **Hi, I'm myzn!**  
 🚀 **Backend Developer**:    
 🌍 **Location:** Japan 🇯🇵    
-📝 **Language:** English, Japan    
+📝 **Language:** English, Japanese    
 💼 **Focus:** Server side application    
 ☕ **Powered by:** Coffee and curiosity  
 🎯 **Goal:** Creating amazing user experiences  
